@@ -5,6 +5,8 @@ public class Franja {
 	private int incio;
 	private int fin;
 	private double coste;
+	private String nombre;
+	
 	public int getIncio() {
 		return incio;
 	}
